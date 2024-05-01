@@ -10,5 +10,5 @@
 </div>
 <div align = "center">
   <p>Gracias por ver esta presentacion :)</p>
-  <img src=72-stock-video-closeup-view-computer-screen-hacker. width="500" height="500"/>
+  <img url=72-stock-video-closeup-view-computer-screen-hacker.jpeg width="500" height="500"/>
 </div>
