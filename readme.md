@@ -14,3 +14,10 @@
   <li>Habilidad Creatividad</li>
   <li>Habilidad en la organizacion de tiempo</li>
 </ul>
+<h2>Gustos</h2>
+<ul>
+  <li>Musica</li>
+  <li>Futbol</li>
+  <li>Convivir con familias y amigos</li>
+  <li>Aprender algo nuevo cada dia</li>
+</ul>
