@@ -22,5 +22,7 @@
   <li>Convivir con familias y amigos</li>
   <li>Aprender algo nuevo cada dia</li>
 </ul>
-<p>Graciass por ver esta presentacion :)/p>
+
+
+<h1>Gracias por ver esta presentacion :)</h1>
 
