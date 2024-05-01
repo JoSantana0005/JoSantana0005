@@ -10,5 +10,5 @@
 </div>
 <div align = "center">
   <p>Gracias por ver esta presentacion :)</p>
-  <img url=https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_200185220_el-programador-es-software-de-codificaci%25C3%25B3n-y-programaci%25C3%25B3n.html&psig=AOvVaw3xXvin2DUqPst9LfDESOZj&ust=1714627594129000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDWpdjb64UDFQAAAAAdAAAAABAE width="500" height="500"/>
+  <img url= 200185220-el-programador-es-software-de-codificación-y-programación.jpg width="500" height="500"
 </div>
