@@ -14,6 +14,7 @@
   <li>Habilidad Creatividad</li>
   <li>Habilidad en la organizacion de tiempo</li>
 </ul>
+
 <h2>Gustos</h2>
 <ul>
   <li>Musica</li>
@@ -21,3 +22,6 @@
   <li>Convivir con familias y amigos</li>
   <li>Aprender algo nuevo cada dia</li>
 </ul>
+<p>Graciass por esta parte esta presentacion les dejo una imagen pqara que se rein un ratico</p>
+
+<img href="55e4fdf5440f722acf98d05189405141" width = "400" height="400"/>
