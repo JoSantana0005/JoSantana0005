@@ -10,7 +10,7 @@
 </div>
 <div align = "center">
   <h2>Habilidades</h2>
-<ul>
+<ul list-style = none>
   <li>Habilidades Logicas</li>
   <li>Habilidades Analiticas</li>
   <li>Habildad para resolver un problema</li>
