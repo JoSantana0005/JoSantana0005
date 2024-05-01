@@ -25,4 +25,4 @@
 
 <p>Gracias por ver esta presentacion :)</p>
 
-<img src =https://i.pinimg.com/564x/55/e4/fd/55e4fdf5440f722acf98d05189405141.jpg width = "400" height = "400"/>
+<img src =https://i.pinimg.com/564x/55/e4/fd/55e4fdf5440f722acf98d05189405141.jpg width = "400" height = "400" margin = "0 auto"/>
