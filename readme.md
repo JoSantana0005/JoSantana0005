@@ -24,5 +24,5 @@
 </ul>
 
 
-<h1>Gracias por ver esta presentacion :)</h1>
+<h2>Gracias por ver esta presentacion :)</h2>
 
