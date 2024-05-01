@@ -10,5 +10,5 @@
 </div>
 <div align = "center">
   <p>Gracias por ver esta presentacion :)</p>
-  <img src= imagenes/foto.jpg width="500" height="500"/>
+  <img src= https://github.com/JoSantana0005/JoSantana0005/blob/main/foto.jpg width="500" height="500"/>
 </div>
