@@ -9,23 +9,6 @@
 <p>Soy una persona muy calamda y a la vez extrovetido en el sentido cuando ya la gente me conoce, soy muy dedicado a lo mio y no ando pensado en pajiritos en la nube,tambien soy una persona muy empatica con los demas, siempre tarto de ayudar a mis compañeros cuando me necesite <b>"Siempre estare para las personas que me valoran cuando estaba ahi cuando estaba por el piso, mientras que los demas estara ahi viendo como esta persona sigue coreciendo y cumpliendo su meta de ser una buena persona y ser un buen programador sin rencores, ni envidia"</b></p>
 </div>
 <div align = "center">
-  <h2>Habilidades</h2>
-<ul list-style = none>
-  <li>Habilidades Logicas</li>
-  <li>Habilidades Analiticas</li>
-  <li>Habildad para resolver un problema</li>
-  <li>Habilidad Creatividad</li>
-  <li>Habilidad en la organizacion de tiempo</li>
-</ul>
-
-<h2>Gustos</h2>
-<ul>
-  <li>Musica</li>
-  <li>Futbol</li>
-  <li>Convivir con familias y amigos</li>
-  <li>Aprender algo nuevo cada dia</li>
-</ul>
+  <p>Gracias por ver esta presentacion :)</p>
+  <img src=72-stock-video-closeup-view-computer-screen-hacker. width="500" height="500"/>
 </div>
-
-
-<p>Gracias por ver esta presentacion :)</p>
