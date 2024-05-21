@@ -14,6 +14,9 @@
   <img src = "fotoHTML.png" width = 200 height = 200/>
   <img src = "Fotocss.png" width = 200 height = 200/>
   <img src = "fotoJavascripts.png" width = 200 height = 200/>
-</div>
+</div><hr>
 <div align = "center">
+  <p>
+Thank you for my presentation and remember:<br> 
+    <b>"It doesn't matter how many times you fall, but how many times you get up"<b></p>
 </div>
