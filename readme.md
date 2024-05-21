@@ -6,11 +6,13 @@
       I fight to be someone in this world.</p>
   <hr>
   <p>My experience in programming is quite small so far but I aspire to more.<br>
-      These are some programming languages ​​that I master:</p>
+      These are some programming languages ​​that I master in the backend topic:</p>
   <img src = "fotopy.png" width = 200 height = 200/>
   <img src = "fotojava.png" width = 200 height = 200/>
+  <hr>
+  <p>and these are some programing languages that I master in the frontend topic:</p>
   <img src = "fotoHTML.png" width = 200 height = 200/>
-  <img src = "Fotocss.png" width = 200 height = 200/>
+  <img src = "fotocss.png" width = 200 height = 200/>
   <img src = "fotoJavascripts.png" width = 200 height = 200/>
 </div>
 <div align = "center">
