@@ -4,6 +4,7 @@
       I dream of being a great cybersecurity programmer and every day,<br>
       I fight to be someone in this world</p>
   <hr>
+  <p>My experience in programming is quite small so far but I aspire to more.</p>
 </div>
 <div align = "center">
 </div>
