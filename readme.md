@@ -17,6 +17,6 @@
 </div><hr>
 <div align = "center">
   <p>
-Thank you for my presentation and remember:<br> 
+Thank you for watching  my presentation and remember:<br> 
     <b>"It doesn't matter how many times you fall, but how many times you get up"<b></p>
 </div>
