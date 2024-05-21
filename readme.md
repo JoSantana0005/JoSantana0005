@@ -8,7 +8,7 @@
   <p>My experience in programming is quite small so far but I aspire to more.<br>
       These are some programming languages ​​that I master:</p>
   <img src = "fotopy.png" width = 200 height = 200/>
-  <img src = "" width = 200 height = 200/>
+  <img src = "fotojava.png" width = 200 height = 200/>
 </div>
 <div align = "center">
 </div>
