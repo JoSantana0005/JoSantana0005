@@ -12,7 +12,7 @@
   <hr>
   <p>and these are some programing languages that I master in the frontend topic:</p>
   <img src = "fotoHTML.png" width = 200 height = 200/>
-  <img src = "fotocss.png" width = 200 height = 200/>
+  <img src = "Fotocss.png" width = 200 height = 200/>
   <img src = "fotoJavascripts.png" width = 200 height = 200/>
 </div>
 <div align = "center">
