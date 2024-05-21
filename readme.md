@@ -6,7 +6,7 @@
   <hr>
   <p>My experience in programming is quite small so far but I aspire to more.<br>
       These are some programming languages ​​that I master:</p>
-  
+  <img src = "fotopy.png" width = 200 height = 300 border-radius = 50%/>
 </div>
 <div align = "center">
 </div>
