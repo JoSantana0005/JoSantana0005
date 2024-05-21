@@ -7,7 +7,7 @@
   <p>My experience in programming is quite small so far but I aspire to more.<br>
       These are some programming languages ​​that I master:</p>
   <img src = "fotopy.png" width = 200 height = 200 border-radius = 50%/>
-  <img src = "foto.jpg" width = 200 height = 200 border-radius = 50%/>
+  <img src = "foto.jpg" width = 200 height = 200 border-color = "Blue"/>
 </div>
 <div align = "center">
 </div>
