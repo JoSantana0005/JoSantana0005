@@ -10,6 +10,7 @@
   <img src = "fotopy.png" width = 200 height = 200/>
   <img src = "fotojava.png" width = 200 height = 200/>
   <img src = "fotoHTML.png" width = 200 height = 200/>
+  <img src = "Fotocss.png" width = 200 height = 200/>
 </div>
 <div align = "center">
 </div>
