@@ -7,11 +7,11 @@
   <hr>
   <p>My experience in programming is quite small so far but I aspire to more.<br>
       These are some programming languages ​​that I master in the backend topic:</p>
-  <img src = "fotopy.png" width = 150 height = 150/>
-  <img src = "fotojava.png" width = 150 height = 150/>
+  <img src = "https://i.postimg.cc/QCq38WR1/python-18894.png" width = 150 height = 150/>
+  <img src = "https://i.postimg.cc/6QDwYKr2/java.png" width = 150 height = 150/>
   <hr>
   <p>and these are some programing languages that I master in the frontend topic:</p>
-  <img src = "https://i.ibb.co/tL1v6Jt/html-5.png)" width = 150 height = 150/>
+  <img src = "https://i.ibb.co/tL1v6Jt/html-5.png" width = 150 height = 150/>
   <img src = "https://i.ibb.co/j86Drxg/css-3.png" width = 150 height = 150/>
   <img src = "https://i.ibb.co/pKKrwn3/javascript-js-icon-2048x2048-nyxvtvk0.png" width = 150 height = 150/>
 </div><hr>
