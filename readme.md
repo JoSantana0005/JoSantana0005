@@ -7,8 +7,8 @@
   <hr>
   <p>My experience in programming is quite small so far but I aspire to more.<br>
       These are some programming languages ​​that I master in the backend topic:</p>
-  <img src = "fotopy.png" width = 200 height = 200/>
-  <img src = "fotojava.png" width = 200 height = 200/>
+  <img src = "fotopy.png" width = 100 height = 100/>
+  <img src = "fotojava.png" width = 100 height = 100/>
   <hr>
   <p>and these are some programing languages that I master in the frontend topic:</p>
   <img src = "https://i.ibb.co/tL1v6Jt/html-5.png)" width = 100 height = 100/>
