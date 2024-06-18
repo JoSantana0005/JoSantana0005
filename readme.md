@@ -11,9 +11,9 @@
   <img src = "fotojava.png" width = 200 height = 200/>
   <hr>
   <p>and these are some programing languages that I master in the frontend topic:</p>
-  <img src = "fotoHTML.png" width = 200 height = 200/>
-  <img src = "Fotocss.png" width = 200 height = 200/>
-  <img src = "fotoJavascripts.png" width = 200 height = 200/>
+  <img src = "https://i.ibb.co/tL1v6Jt/html-5.png)" width = 200 height = 200/>
+  <img src = "[Fotocss.png](https://i.ibb.co/j86Drxg/css-3.png)" width = 200 height = 200/>
+  <img src = "https://i.ibb.co/pKKrwn3/javascript-js-icon-2048x2048-nyxvtvk0.png" width = 200 height = 200/>
 </div><hr>
 <div align = "center">
   <p>
