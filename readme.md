@@ -5,6 +5,6 @@
   Hello everyone, my name is José Santana or can you call me Santana :), I am passionate about programming and I like to learn more about this world every day. I have been   doing this for two years and I am a student at the José Antonio Paéz University in which Computer Engineering study (6/10)</p>
   </div>
   <div align="Justify">
-    <img src="https://assets-blog.hostgator.mx/wp-content/uploads/2020/07/Lenguaje-de-programacion-Golang-o-Go.gif" width="350" height="350">
+    <img src="https://assets-blog.hostgator.mx/wp-content/uploads/2020/07/Lenguaje-de-programacion-Golang-o-Go.gif"/>
   </div>
 </div>
