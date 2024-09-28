@@ -1,6 +1,6 @@
 <div align="Center">
   <div align="center">
-    <img src="imagengif.gif" width="650" height="450"/>
+    <img src="imagengif.gif" width="650" height="250"/>
   </div>
   <div align="Justify">
     <h1>José Angel Santana Ramos</h1>
