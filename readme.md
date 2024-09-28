@@ -1,6 +1,6 @@
 <div align="Center">
   <div align="center">
-    <img src="" width="850" height="250"/>
+    <img src="" width="750" height="300"/>
   </div>
   <div align="Justify">
     <h1>José Angel Santana Ramos</h1>
