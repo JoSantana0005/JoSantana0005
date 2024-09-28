@@ -1,6 +1,6 @@
 <div align="Center">
   <div align="center">
-    <img src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" width="880px" height="250px"/>
+    <img src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" width="700px" height="300px"/>
   </div>
   <div align="Justify">
     <h1>José Angel Santana Ramos</h1>
@@ -12,9 +12,15 @@
     <div>
       <h3>BACKEND</h3>
       <div align="center">
-        <img src="https://i.postimg.cc/6QDwYKr2/java.png" witdh="150px" height="150px">
-        <img src="https://i.postimg.cc/QCq38WR1/python-18894.png" witdh="150px" height="150px">
-        <img src="https://i.ibb.co/pKKrwn3/javascript-js-icon-2048x2048-nyxvtvk0.png" witdh="150px" height="150px">
+        <img src="https://i.postimg.cc/6QDwYKr2/java.png" witdh="100px" height="100px">
+        <img src="https://i.postimg.cc/QCq38WR1/python-18894.png" witdh="100px" height="100px">
+        <img src="https://i.ibb.co/pKKrwn3/javascript-js-icon-2048x2048-nyxvtvk0.png" witdh="100px" height="100px">
+      </div>
+      <h3>FRONTEND</h3>
+      <div>
+        <img src="https://i.ibb.co/tL1v6Jt/html-5.png" witdh="100px" height="100px">
+        <img src="https://i.ibb.co/j86Drxg/css-3.png" witdh="100px" height="100px">
+        <img src="https://avatars.githubusercontent.com/u/102273996?v=4" witdh="100px" height="100px">
       </div>
     </div>
   </div>
