@@ -9,5 +9,8 @@
   </div>
   <div align="Justify">
     <h2>### 🛠 &nbsp;Tech Stack</h2>
+    <p>
+      ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+    </p>
   </div>
 </div>
