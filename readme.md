@@ -21,7 +21,9 @@
         <img src="https://i.ibb.co/JBWfJH6/figma.png" witdh="100px" height="100px">
       </div>
     </div>
+    <div>
+      <span>thank you for watching my brief presentation and remember <b>the road will be long but it will be worth it</b></span>
+      </div>
   </div>
-  <span>thank you for watching my brief presentation and remember <b>the road will be long but it will be worth it</b></span>
 </div>
 
