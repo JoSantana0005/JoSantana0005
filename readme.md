@@ -22,7 +22,7 @@
       </div>
     </div>
     <div align="center">
-      <span>thank you for watching my brief presentation and remember <b>the road will be long but it will be worth it</b></span>
+      <p>thank you for watching my brief presentation and remember <b>"the road will be long but it will be worth it"</b></p>
     </div>
   </div>
 </div>
