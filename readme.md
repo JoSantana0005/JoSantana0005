@@ -8,11 +8,6 @@
   Hello everyone, my name is José Santana or can you call me Santana :), I am passionate about programming and I like to learn more about this world every day. I have been   doing this for two years and I am a student at the José Antonio Paéz University in which Computer Engineering study (6/10)</p>
   </div>
   <div align="Justify">
-    <h2 align="center">My skill</h2>
-    <table>
-      <tr>
-        <td>Backend</td>
-      </tr>
-    </table>
+    <h2>### 🛠 &nbsp;Tech Stack</h2>
   </div>
 </div>
