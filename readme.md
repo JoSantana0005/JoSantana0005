@@ -10,7 +10,10 @@
   <div align="Justify">
     <h2 align="center">My Skills</h2>
     <div>
-      <span color:#4f9bae >BACKEND:</span>
+      <span>BACKEND:</span>
+      <img src="" witdh="50" height="50">
+      <img src="" witdh="50" height="50">
+      <img src="" witdh="50" height="50">
     </div>
   </div>
 </div>
