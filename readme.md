@@ -9,6 +9,8 @@
   </div>
   <div align="Justify">
     <h2 align="center">My Skills</h2>
-    <span font="san-serif">Backend:</span>
+    <div>
+      <span color:#fff >BACKEND:</span>
+    </div>
   </div>
 </div>
