@@ -11,9 +11,11 @@
     <h2 align="center">My Skills</h2>
     <div>
       <h3>BACKEND</h3>
-      <img src="https://i.postimg.cc/6QDwYKr2/java.png" witdh="250px" height="250px">
-      <img src="" witdh="10%">
-      <img src="" witdh="10%">
+      <div align="center">
+        <img src="https://i.postimg.cc/6QDwYKr2/java.png" witdh="150px" height="150px">
+        <img src="https://i.postimg.cc/QCq38WR1/python-18894.png" witdh="150px" height="150px">
+        <img src="https://i.ibb.co/pKKrwn3/javascript-js-icon-2048x2048-nyxvtvk0.png" witdh="150px" height="150px">
+      </div>
     </div>
   </div>
 </div>
