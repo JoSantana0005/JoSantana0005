@@ -8,9 +8,8 @@
   Hello everyone, my name is José Santana or can you call me Santana :), I am passionate about programming and I like to learn more about this world every day. I have been   doing this for two years and I am a student at the José Antonio Paéz University in which Computer Engineering study (6/10)</p>
   </div>
   <div align="Justify">
-    <h2>### 🛠 &nbsp;Tech Stack</h2>
-    <p>
-      ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-    </p>
+    ### 🛠 &nbsp;Tech Stack
+    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+    
   </div>
 </div>
