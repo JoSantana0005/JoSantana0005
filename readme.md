@@ -11,7 +11,7 @@
     <h2 align="center">My Skills</h2>
     <div>
       <span>BACKEND:</span>
-      <img src="" witdh="50" height="50">
+      <img src="https://i.postimg.cc/6QDwYKr2/java.png" witdh="50" height="50">
       <img src="" witdh="50" height="50">
       <img src="" witdh="50" height="50">
     </div>
