@@ -22,9 +22,9 @@
       </div>
     </div>
     <div align="center">
-      <p>learning</p>
+      <p>learning:</p>
       <div align ="center">
-        <img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" witdh="100px" height="100px"><br>
+        <img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" witdh="100px" height="100px">
         <img src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169940.png" witdh= "100px" height= "100px">
       </div>
     </div>
