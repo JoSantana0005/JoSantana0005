@@ -24,8 +24,8 @@
     <div align="center">
       <p>learning</p>
       <div>
-        <img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" witdh="100" height="100">
-        <img src= "https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" witdh= "100" height= "100">
+        <img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" witdh="100px" height="100px">
+        <img src= "https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" witdh= "100px" height= "100px">
       </div>
     </div>
     <div align="center">
