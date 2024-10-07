@@ -22,6 +22,13 @@
       </div>
     </div>
     <div align="center">
+      <p>learning</p>
+      <div>
+        <img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" witdh="100" height="100">
+        <img src= "https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" witdh= "100" height= "100">
+      </div>
+    </div>
+    <div align="center">
       <p>thank you for watching my brief presentation and remember <b>"the road will be long but it will be worth it"</b></p>
     </div>
   </div>
