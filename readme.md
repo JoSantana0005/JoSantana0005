@@ -17,13 +17,13 @@
         <img src="https://i.ibb.co/0XzbYsZ/vscode-icons-file-type-light-json.png" witdh="100px" height="100px">
         <img src="https://i.ibb.co/tL1v6Jt/html-5.png" witdh="100px" height="100px">
         <img src="https://i.ibb.co/j86Drxg/css-3.png" witdh="100px" height="100px">
+        <img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" witdh="100px" height="100px">
         <img src="https://avatars.githubusercontent.com/u/102273996?v=4" witdh="100px" height="100px">
         <img src="https://i.ibb.co/JBWfJH6/figma.png" witdh="100px" height="100px">
       </div>
     </div>
     <div align="center">
       <p>learning:</p><div align ="center">
-      <img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" witdh="100px" height="100px">
       <img src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169940.png" witdh= "100px" height= "100px">
     </div> 
     </div>
